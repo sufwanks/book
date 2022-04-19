@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Kings&family=Open+Sans:ital,wght@1,500&family=Quintessential&display=swap');
+
+h3{
+    font-family: 'Quintessential', cursive;
+}
+p{
+    font-family: 'Open Sans', sans-serif;
+}
+div{
+    background-color: black;
+    color: whitesmoke;
+    
+}
+img{
+    width: 99%;
+    height: 35%;
+}
+#b1{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+
+}
+#b2{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+
+}
+#b3{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+
+}
+#b4{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+
+}
+#b5{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+
+}
+#b6{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+
+}
+#b7{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+
+}
+#b8{
+    width: 300px;
+    padding: 2%;
+    height: 490px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 2%;
+    border-radius: 10px;    
+}
